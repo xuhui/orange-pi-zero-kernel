@@ -14,3 +14,6 @@ compiled kernel and modules
 
 ## dl 
 toolchain gcc and other utils for kerlnel building
+
+## Fork for
+TAS5731 reference
